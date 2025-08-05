@@ -222,5 +222,5 @@ var body = entity.getBody()
 ## 📚 完整文档
 
 ### 快速导航
-- 🏠 [Components 总览](../Components-Overview.md) - 组件系统文档
-- 📋 [Entity Templates](../Templates/Entities/) - 实体模板目录 
+- 🏠 [Components 总览](./Components/Components-Overview.md) - 组件系统文档
+- 📋 [Entity Templates](./Entities/Entity-Templates.md) - 实体模板目录 
