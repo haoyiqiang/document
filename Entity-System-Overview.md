@@ -87,11 +87,6 @@ Entities/
 
 📖 **详细文档：** [Game Objects 文档](Entities/Game-Objects.md)
 
-#### 回合制实体 (TurnBased/)
-- **TurnBasedEntity** - 回合制实体基类
-  📖 **详细文档：** [TurnBasedEntity API 文档](Entities/TurnBasedEntity.md)
-- **TurnBasedPlayerEntity** - 回合制玩家实体
-
 📖 **模板文档：** [Entity Templates 文档](Entities/Entity-Templates.md)
 
 ## 🎮 使用模式
