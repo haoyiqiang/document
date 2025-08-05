@@ -18,13 +18,20 @@ classDiagram
     Node <|-- Node2D
     Node2D <|-- Entity
     Entity <|-- PlayerEntity
-    Entity <|-- TurnBasedEntity
     Entity <|-- BulletEntity
     Entity <|-- LaserEntity
     Entity <|-- ExplosionEntity
     Entity <|-- LightningEntity
     Entity <|-- ParabolaFireBallEntity
     Entity <|-- PortalEntity
+    
+    %% PlayerEntity 组件示例
+    PlayerEntity *-- CharacterBodyComponent : 物理移动
+    PlayerEntity *-- HealthComponent : 生命值管理
+    PlayerEntity *-- StatsComponent : 属性统计
+    PlayerEntity *-- InventoryComponent : 物品管理
+    PlayerEntity *-- ActionsComponent : 技能行动
+    PlayerEntity *-- UpgradesComponent : 升级系统
 ```
 
 ## 🎯 主要特性
@@ -76,6 +83,14 @@ Entities/
 #### 角色实体 (Characters/)
 - **PlayerEntity** - 玩家实体，包含基础玩家功能
   📖 **详细文档：** [PlayerEntity API 文档](Entities/PlayerEntity.md)
+  
+  **核心组件：**
+  - **CharacterBodyComponent** - 物理移动控制，管理 CharacterBody2D
+  - **HealthComponent** - 生命值管理，处理伤害和治疗
+  - **StatsComponent** - 属性统计管理，存储各种数值属性
+  - **InventoryComponent** - 物品容器管理，支持重量和数量限制
+  - **ActionsComponent** - 技能行动系统，管理特殊技能和法术
+  - **UpgradesComponent** - 升级系统，管理角色升级和费用支付
 
 #### 游戏对象实体 (Objects/)
 - **BulletEntity** - 子弹实体，用于射击系统
