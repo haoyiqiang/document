@@ -1,7 +1,7 @@
 # Components 组件总览
 
 ## 概述
-Comedot 框架的组件系统采用了组合模式（Composition Pattern），提供了一套完整的组件化架构。每个组件都继承自基础的 `Component` 类，负责实现特定的行为或功能。
+框架的组件系统采用了组合模式（Composition Pattern），提供了一套完整的组件化架构。每个组件都继承自基础的 `Component` 类，负责实现特定的行为或功能。
 
 ## 🏗️ 组件继承关系 - UML类图
 
