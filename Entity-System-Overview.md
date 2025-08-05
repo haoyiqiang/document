@@ -1,7 +1,7 @@
 # Entity System 实体系统总览
 
 ## 概述
-Entity 系统是 Comedot 框架的核心组合架构，采用组合模式（Composition Pattern）来构建游戏对象。每个 Entity 由多个独立的、可重用的 Component 组成，每个 Component 负责实现特定的行为或功能。
+采用组合模式（Composition Pattern）来构建游戏对象。每个 Entity 由多个独立的、可重用的 Component 组成，每个 Component 负责实现特定的行为或功能。
 
 **设计理念：** Entity 是"脚手架"，Component 做实际的工作（游戏逻辑）
 
@@ -25,7 +25,6 @@ classDiagram
     Entity <|-- LightningEntity
     Entity <|-- ParabolaFireBallEntity
     Entity <|-- PortalEntity
-    TurnBasedEntity <|-- TurnBasedPlayerEntity
 ```
 
 ## 🎯 主要特性
@@ -60,10 +59,6 @@ Entities/
 │   ├── LightningEntity.gd      # 闪电实体
 │   ├── ParabolaFireBallEntity.gd # 抛物线火球实体
 │   └── PortalEntity.tscn       # 传送门实体
-├── TurnBased/                   # 回合制实体
-│   ├── TurnBasedEntity.gd      # 回合制实体基类
-│   └── TurnBasedPlayerEntity.gd # 回合制玩家实体
-└── Help - Entity Templates.md   # 实体模板说明
 ```
 
 ## 🔧 核心组件
@@ -215,15 +210,6 @@ var body = entity.getBody()
 - **Signal System** - 信号系统
 
 ## 📚 完整文档
-
-### 核心文档
-- 📖 [Entity API 文档](Entities/Entity.md) - Entity 基类的完整 API 参考
-- 📖 [PlayerEntity API 文档](Entities/PlayerEntity.md) - 玩家实体文档
-- 📖 [TurnBasedEntity API 文档](Entities/TurnBasedEntity.md) - 回合制实体文档
-
-### 分类文档
-- 📖 [Game Objects 文档](Entities/Game-Objects.md) - 游戏对象实体文档
-- 📖 [Entity Templates 文档](Entities/Entity-Templates.md) - 实体模板系统文档
 
 ### 快速导航
 - 🏠 [Components 总览](../Components-Overview.md) - 组件系统文档
