@@ -273,8 +273,8 @@ func _ready() -> void:
 
 - [TurningControlComponent](TurningControlComponent.md) - 转向控制组件
 - [AsteroidsControlComponent](AsteroidsControlComponent.md) - 小行星风格控制
-- [VelocityClampComponent](../Physics/VelocityClampComponent.md) - 速度限制组件
-- [CharacterBodyDependentComponentBase](../Physics/CharacterBodyDependentComponentBase.md) - 基类组件
+- [VelocityClampComponent](./VelocityClampComponent.md) - 速度限制组件
+- [CharacterBodyDependentComponentBase](./CharacterBodyDependentComponentBase.md) - 基类组件
 
 ---
 

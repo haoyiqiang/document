@@ -125,6 +125,6 @@ func setup_building_placement():
 - 合理设置移动速度避免卡顿
 
 ## 相关组件
-- [`TileBasedControlComponent`](../Control/TileBasedControlComponent.md) - 瓦片输入控制
-- [`NavigationComponent`](../Movement/NavigationComponent.md) - 导航寻路
-- [`LinearMotionComponent`](../Movement/LinearMotionComponent.md) - 直线运动 
+- [`TileBasedControlComponent`](./TileBasedControlComponent.md) - 瓦片输入控制
+- [`NavigationComponent`](./NavigationComponent.md) - 导航寻路
+- [`LinearMotionComponent`](./LinearMotionComponent.md) - 直线运动 

@@ -216,6 +216,6 @@ func create_blink_for_target(target: Node2D):
 - 闪烁频率固定，不可动态调整
 
 ## 相关组件
-- [`HealthVisualComponent`](../Visual/HealthVisualComponent.md) - 生命值视觉效果
-- [`DamageVisualComponent`](../Visual/DamageVisualComponent.md) - 伤害视觉效果
-- [`TurnBasedAnimationComponent`](../TurnBased/TurnBasedAnimationComponent.md) - 回合制动画 
+- [`HealthVisualComponent`](./HealthVisualComponent.md) - 生命值视觉效果
+- [`DamageVisualComponent`](./DamageVisualComponent.md) - 伤害视觉效果
+- [`TurnBasedAnimationComponent`](./TurnBasedAnimationComponent.md) - 回合制动画 

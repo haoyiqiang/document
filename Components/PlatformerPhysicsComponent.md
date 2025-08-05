@@ -299,7 +299,7 @@ func apply_to(physics_component: PlatformerPhysicsComponent):
 - 加速度影响角色的"重量感"
 
 ## 相关组件
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - CharacterBody2D管理
-- [`InputComponent`](../Control/InputComponent.md) - 输入控制
-- [`JumpComponent`](../Control/JumpComponent.md) - 跳跃机制
-- [`GravityComponent`](../Physics/GravityComponent.md) - 简单重力（不要同时使用）
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - CharacterBody2D管理
+- [`InputComponent`](./InputComponent.md) - 输入控制
+- [`JumpComponent`](./JumpComponent.md) - 跳跃机制
+- [`GravityComponent`](./GravityComponent.md) - 简单重力（不要同时使用）

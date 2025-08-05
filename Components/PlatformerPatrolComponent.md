@@ -268,7 +268,7 @@ func _physics_process(_delta):
 - 考虑添加巡逻范围限制
 
 ## 相关组件
-- [`CornerCollisionComponent`](../Physics/CornerCollisionComponent.md) - 边缘碰撞检测
-- [`PlatformerPhysicsComponent`](../Physics/PlatformerPhysicsComponent.md) - 平台物理
-- [`InputComponent`](../Control/InputComponent.md) - 输入控制
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - CharacterBody2D管理 
+- [`CornerCollisionComponent`](./CornerCollisionComponent.md) - 边缘碰撞检测
+- [`PlatformerPhysicsComponent`](./PlatformerPhysicsComponent.md) - 平台物理
+- [`InputComponent`](./InputComponent.md) - 输入控制
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - CharacterBody2D管理 

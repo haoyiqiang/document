@@ -99,5 +99,5 @@ func setup_camera_bounds(level_size: Vector2):
 ## 相关组件
 
 - [`LinearMotionComponent`](LinearMotionComponent.md) - 可能需要位置限制的运动组件
-- [`CameraComponent`](../Visual/CameraComponent.md) - 常与此组件配合的相机系统
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - 可能受位置限制影响的物理组件 
+- [`CameraComponent`](./CameraComponent.md) - 常与此组件配合的相机系统
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - 可能受位置限制影响的物理组件 

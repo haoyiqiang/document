@@ -255,7 +255,7 @@ func apply_vehicle_upgrade(upgrade: VehicleUpgrade):
 - 专门为载具/骑乘场景设计
 
 ## 相关组件
-- [`AttachmentComponent`](../Movement/AttachmentComponent.md) - 简单节点附着
-- [`InputComponent`](../Control/InputComponent.md) - 输入控制
-- [`PlatformerControlComponent`](../Control/PlatformerControlComponent.md) - 平台游戏控制
-- [`ActionsComponent`](../Gameplay/ActionsComponent.md) - 行动系统
+- [`AttachmentComponent`](./AttachmentComponent.md) - 简单节点附着
+- [`InputComponent`](./InputComponent.md) - 输入控制
+- [`PlatformerControlComponent`](./PlatformerControlComponent.md) - 平台游戏控制
+- [`ActionsComponent`](./ActionsComponent.md) - 行动系统

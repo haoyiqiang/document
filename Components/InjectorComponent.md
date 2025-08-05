@@ -364,6 +364,6 @@ func cleanup_temporary_effects(target: Entity, components: Array[Node]):
 - 处理多重碰撞的情况
 
 ## 相关组件
-- [`StatModifierComponent`](../Data/StatModifierComponent.md) - 统计修改器
-- [`DamageOverTimeComponent`](../Combat/DamageOverTimeComponent.md) - 持续伤害
+- [`StatModifierComponent`](./StatModifierComponent.md) - 统计修改器
+- [`DamageOverTimeComponent`](./DamageOverTimeComponent.md) - 持续伤害
 - [`Component`](../Component.md) - 组件基类 

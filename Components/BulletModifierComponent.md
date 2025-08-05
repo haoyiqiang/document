@@ -191,6 +191,6 @@ func recalculate_total_modifications():
 - 处理组件创建失败的情况
 
 ## 相关组件
-- [`GunComponent`](../Combat/GunComponent.md) - 武器射击
-- [`DamageComponent`](../Combat/DamageComponent.md) - 伤害系统
+- [`GunComponent`](./GunComponent.md) - 武器射击
+- [`DamageComponent`](./DamageComponent.md) - 伤害系统
 - [`Entity`](../../Entities/Entity.md) - 实体系统 

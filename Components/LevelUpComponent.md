@@ -204,9 +204,9 @@ func resetXP() -> void:
 
 ## 🔗 相关组件
 
-- [StatsComponent](../Data/StatsComponent.md) - 管理经验值等统计数据
+- [StatsComponent](./StatsComponent.md) - 管理经验值等统计数据
 - [UpgradesComponent](UpgradesComponent.md) - 处理升级资源
-- [StatModifierComponent](../Data/StatModifierComponent.md) - 修改统计数据
+- [StatModifierComponent](./StatModifierComponent.md) - 修改统计数据
 - [UI/UpgradeChoicesList](../../UI/Lists/UpgradeChoicesList.md) - 升级选择列表
 
 ---

@@ -257,7 +257,7 @@ modifyTimer.get_node("InternalTimer").timeout.disconnect(modifyTimer.onInternalT
 ## 🔗 相关组件
 
 - [NodeModifierComponentBase](../NodeModifierComponentBase.md) - 基础修改组件
-- [ModifyOnCollisionComponent](../Physics/ModifyOnCollisionComponent.md) - 碰撞修改组件
+- [ModifyOnCollisionComponent](./ModifyOnCollisionComponent.md) - 碰撞修改组件
 - [TimerComponentBase](TimerComponentBase.md) - 计时器基类
 - [CooldownComponent](CooldownComponent.md) - 冷却时间组件
 

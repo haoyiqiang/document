@@ -146,7 +146,7 @@ if not isEnabled:
 
 - [CooldownComponent](CooldownComponent.md) - 冷却时间管理组件
 - [ModifyOnTimerComponent](ModifyOnTimerComponent.md) - 定时修改组件
-- [DamageOverTimeComponent](../Combat/DamageOverTimeComponent.md) - 持续伤害组件
+- [DamageOverTimeComponent](./DamageOverTimeComponent.md) - 持续伤害组件
 - [TimerAgentComponentBase](../AI/TimerAgentComponentBase.md) - AI计时器基类
 
 ---

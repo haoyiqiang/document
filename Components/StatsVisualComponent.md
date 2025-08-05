@@ -228,6 +228,6 @@ func filtered_on_stat_changed(stat: Stat):
 - 动态变更时注意内存和性能
 
 ## 相关组件
-- [`StatsComponent`](../Data/StatsComponent.md) - 统计数据管理
-- [`HealthVisualComponent`](../Visual/HealthVisualComponent.md) - 生命值视觉效果
-- [`CollectibleComponent`](../Objects/CollectibleComponent.md) - 可拾取物品（CollectibleStatComponent） 
+- [`StatsComponent`](./StatsComponent.md) - 统计数据管理
+- [`HealthVisualComponent`](./HealthVisualComponent.md) - 生命值视觉效果
+- [`CollectibleComponent`](./CollectibleComponent.md) - 可拾取物品（CollectibleStatComponent） 

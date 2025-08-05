@@ -442,7 +442,7 @@ func performInteraction(interactorEntity: Entity, interactionControlComponent: I
 ## 🔗 相关组件
 
 - [InteractionComponent](InteractionComponent.md) - 基础交互组件
-- [InteractionControlComponent](../Control/InteractionControlComponent.md) - 交互控制组件
+- [InteractionControlComponent](./InteractionControlComponent.md) - 交互控制组件
 - [CollectorComponent](CollectorComponent.md) - 收集器组件
 - [Component](../Component.md) - 基础组件类
 

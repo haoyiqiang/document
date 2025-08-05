@@ -310,6 +310,6 @@ func get_unlockable_upgrades() -> Array[StringName]:
 - 避免在Upgrade处理过程中修改upgrades数组
 
 ## 相关组件
-- [`StatsComponent`](../Data/StatsComponent.md) - 统计数据管理
+- [`StatsComponent`](./StatsComponent.md) - 统计数据管理
 - [`Upgrade`](../../Resources/Upgrade.md) - 升级资源
 - [`UpgradeChoiceUI`](../../UI/UpgradeChoiceUI.md) - 升级选择界面 

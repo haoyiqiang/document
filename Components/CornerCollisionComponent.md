@@ -315,7 +315,7 @@ func updateFlags() -> void:
 
 - [AreaCollisionComponent](AreaCollisionComponent.md) - Area碰撞检测组件
 - [PlatformerPhysicsComponent](PlatformerPhysicsComponent.md) - 平台物理组件
-- [JumpComponent](../Control/JumpComponent.md) - 跳跃组件
+- [JumpComponent](./JumpComponent.md) - 跳跃组件
 - [Component](../Component.md) - 基础组件类
 
 ---

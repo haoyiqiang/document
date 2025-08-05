@@ -314,6 +314,6 @@ func resume_all_animations():
 - 考虑使用动画池优化内存使用
 
 ## 相关组件
-- [`TileBasedPositionComponent`](../Movement/TileBasedPositionComponent.md) - 瓦片位置管理
-- [`PlatformerAnimationComponent`](../Visual/PlatformerAnimationComponent.md) - 平台动画（连续移动）
+- [`TileBasedPositionComponent`](./TileBasedPositionComponent.md) - 瓦片位置管理
+- [`PlatformerAnimationComponent`](./PlatformerAnimationComponent.md) - 平台动画（连续移动）
 - [`AnimatedSprite2D`](https://docs.godotengine.org/en/stable/classes/class_animatedsprite2d.html) - Godot动画精灵 

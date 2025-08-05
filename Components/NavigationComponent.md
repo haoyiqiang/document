@@ -271,7 +271,7 @@ func _physics_process(_delta):
 - 根据需求选择合适的组件
 
 ## 相关组件
-- [`ChaseComponent`](../Movement/ChaseComponent.md) - 简单追踪移动
-- [`LinearMotionComponent`](../Movement/LinearMotionComponent.md) - 直线运动
-- [`PathFollowComponent`](../Movement/PathFollowComponent.md) - 路径跟随
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - 角色物理体 
+- [`ChaseComponent`](./ChaseComponent.md) - 简单追踪移动
+- [`LinearMotionComponent`](./LinearMotionComponent.md) - 直线运动
+- [`PathFollowComponent`](./PathFollowComponent.md) - 路径跟随
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - 角色物理体 

@@ -236,10 +236,10 @@ if currentTextIndex == textStrings.size() - 1:
 
 ## 🔗 相关组件
 
-- [InteractionComponent](../Objects/InteractionComponent.md) - 基础交互组件
-- [InteractionControlComponent](../Control/InteractionControlComponent.md) - 交互控制
-- [LabelComponent](../Visual/LabelComponent.md) - 文本显示组件
-- [InteractionWithCostComponent](../Objects/InteractionWithCostComponent.md) - 有成本的交互
+- [InteractionComponent](./InteractionComponent.md) - 基础交互组件
+- [InteractionControlComponent](./InteractionControlComponent.md) - 交互控制
+- [LabelComponent](./LabelComponent.md) - 文本显示组件
+- [InteractionWithCostComponent](./InteractionWithCostComponent.md) - 有成本的交互
 
 ---
 

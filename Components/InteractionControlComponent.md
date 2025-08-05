@@ -278,7 +278,7 @@ func validate_interaction_context(entity: Entity, interaction_component: Interac
 - 根据游戏设计需求选择合适的组件
 
 ## 相关组件
-- [`InteractionComponent`](../Objects/InteractionComponent.md) - 交互对象组件
-- [`CollectibleComponent`](../Objects/CollectibleComponent.md) - 可拾取物品组件
-- [`CooldownComponent`](../Gameplay/CooldownComponent.md) - 冷却时间基础组件
-- [`InputComponent`](../Control/InputComponent.md) - 输入控制组件 
+- [`InteractionComponent`](./InteractionComponent.md) - 交互对象组件
+- [`CollectibleComponent`](./CollectibleComponent.md) - 可拾取物品组件
+- [`CooldownComponent`](./CooldownComponent.md) - 冷却时间基础组件
+- [`InputComponent`](./InputComponent.md) - 输入控制组件 

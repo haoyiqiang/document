@@ -488,7 +488,7 @@ func updatePosition() -> void:
 
 ## 🔗 相关组件
 
-- [TileBasedPositionComponent](../Movement/TileBasedPositionComponent.md) - 瓦片位置组件
+- [TileBasedPositionComponent](./TileBasedPositionComponent.md) - 瓦片位置组件
 - [MouseTrackingComponent](MouseTrackingComponent.md) - 鼠标跟踪组件
 - [TileBasedControlComponent](TileBasedControlComponent.md) - 瓦片控制组件
 - [Component](../Component.md) - 基础组件类

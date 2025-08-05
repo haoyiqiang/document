@@ -2,7 +2,7 @@
 
 ## 概述
 
-`TileBasedRandomMovementComponent` 继承自 [`TileBasedControlComponent`](../Control/TileBasedControlComponent.md)，专门用于实现随机移动。该组件会根据定时器在预设的移动选项中随机选择方向，适用于AI敌人的巡逻行为。
+`TileBasedRandomMovementComponent` 继承自 [`TileBasedControlComponent`](./TileBasedControlComponent.md)，专门用于实现随机移动。该组件会根据定时器在预设的移动选项中随机选择方向，适用于AI敌人的巡逻行为。
 
 **继承关系：**
 `Component` → `TileBasedControlComponent` → `TileBasedRandomMovementComponent`
@@ -165,7 +165,7 @@ func _on_stop_chasing():
 ## 注意事项
 
 ⚠️ **依赖要求：**
-- 需要与 [`TileBasedControlComponent`](../Control/TileBasedControlComponent.md) 相同的依赖
+- 需要与 [`TileBasedControlComponent`](./TileBasedControlComponent.md) 相同的依赖
 - 必须有有效的 `TileBasedPositionComponent`
 
 💡 **性能考虑：**
@@ -180,7 +180,7 @@ func _on_stop_chasing():
 
 ## 相关组件
 
-- [`TileBasedControlComponent`](../Control/TileBasedControlComponent.md) - 父类，提供基础瓦片控制
+- [`TileBasedControlComponent`](./TileBasedControlComponent.md) - 父类，提供基础瓦片控制
 - [`TileBasedPositionComponent`](TileBasedPositionComponent.md) - 必需依赖，管理瓦片位置
 - [`ChaseComponent`](ChaseComponent.md) - 常用搭配，实现追逐行为
-- [`FactionComponent`](../Combat/FactionComponent.md) - 可选搭配，阵营系统 
+- [`FactionComponent`](./FactionComponent.md) - 可选搭配，阵营系统 

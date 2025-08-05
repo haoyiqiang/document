@@ -109,6 +109,6 @@ func setup_dark_theme():
 - 建议在生产环境中谨慎使用
 
 ## 相关组件
-- [`TurnBasedComponent`](../TurnBased/TurnBasedComponent.md) - 回合制基类
+- [`TurnBasedComponent`](./TurnBasedComponent.md) - 回合制基类
 - [`TurnBasedCoordinator`](../../Managers/TurnBasedCoordinator.md) - 回合制协调器
 - [`TurnBasedEntity`](../../Entities/TurnBasedEntity.md) - 回合制实体 

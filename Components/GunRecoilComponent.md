@@ -259,7 +259,7 @@ func _ready() -> void:
 
 ## 🔗 相关组件
 
-- [GunComponent](../Combat/GunComponent.md) - 武器射击组件
+- [GunComponent](./GunComponent.md) - 武器射击组件
 - [VelocityClampComponent](VelocityClampComponent.md) - 速度限制组件
 - [CharacterBodyDependentComponentBase](CharacterBodyDependentComponentBase.md) - 基类组件
 - [Component](../Component.md) - 基础组件类

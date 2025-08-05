@@ -372,6 +372,6 @@ func get_effective_cost(original_cost: float) -> float:
 - 优化标签更新频率
 
 ## 相关组件
-- [`InteractionComponent`](../Objects/InteractionComponent.md) - 基础交互组件
-- [`StatsComponent`](../Data/StatsComponent.md) - 统计数据管理
+- [`InteractionComponent`](./InteractionComponent.md) - 基础交互组件
+- [`StatsComponent`](./StatsComponent.md) - 统计数据管理
 - [`StatDependentResourceBase`](../../Resources/StatDependentResourceBase.md) - 统计依赖资源 

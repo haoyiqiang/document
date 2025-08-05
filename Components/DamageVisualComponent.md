@@ -203,7 +203,7 @@ func sync_visual_states():
 - 两者可以同时使用但需要协调
 
 ## 相关组件
-- [`HealthVisualComponent`](../Visual/HealthVisualComponent.md) - 生命值视觉效果
-- [`DamageReceivingComponent`](../Combat/DamageReceivingComponent.md) - 伤害接收
-- [`HealthComponent`](../Combat/HealthComponent.md) - 生命值管理
-- [`ShieldedHealthComponent`](../Combat/ShieldedHealthComponent.md) - 护盾生命值
+- [`HealthVisualComponent`](./HealthVisualComponent.md) - 生命值视觉效果
+- [`DamageReceivingComponent`](./DamageReceivingComponent.md) - 伤害接收
+- [`HealthComponent`](./HealthComponent.md) - 生命值管理
+- [`ShieldedHealthComponent`](./ShieldedHealthComponent.md) - 护盾生命值

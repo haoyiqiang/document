@@ -325,6 +325,6 @@ func create_random_drop(position: Vector2, parent: Node2D) -> Node2D:
 - 实现掉落物的自动收集或过期机制
 
 ## 相关组件
-- [`HealthComponent`](../Combat/HealthComponent.md) - 生命值管理
-- [`CollectibleComponent`](../Objects/CollectibleComponent.md) - 可收集物品
+- [`HealthComponent`](./HealthComponent.md) - 生命值管理
+- [`CollectibleComponent`](./CollectibleComponent.md) - 可收集物品
 - [`SceneManager`](../../Managers/SceneManager.md) - 场景管理器 

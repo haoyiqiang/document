@@ -150,7 +150,7 @@ func fall():
 ## 🔗 相关组件
 
 - [TurnBasedComponent](TurnBasedComponent.md) - 回合制基础组件
-- [TileBasedPositionComponent](../Movement/TileBasedPositionComponent.md) - 瓦片位置组件
+- [TileBasedPositionComponent](./TileBasedPositionComponent.md) - 瓦片位置组件
 - [TurnBasedTileBasedControlComponent](TurnBasedTileBasedControlComponent.md) - 回合制瓦片控制
 - [Component](../Component.md) - 基础组件类
 

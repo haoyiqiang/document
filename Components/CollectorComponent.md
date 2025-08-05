@@ -334,6 +334,6 @@ func check_conditions(collector: CollectorComponent, collectible: CollectibleCom
 - 确保载荷效果的原子性
 
 ## 相关组件
-- [`CollectibleComponent`](../Objects/CollectibleComponent.md) - 可收集物品
-- [`InventoryComponent`](../Gameplay/InventoryComponent.md) - 物品容器
-- [`StatsComponent`](../Data/StatsComponent.md) - 统计数据管理 
+- [`CollectibleComponent`](./CollectibleComponent.md) - 可收集物品
+- [`InventoryComponent`](./InventoryComponent.md) - 物品容器
+- [`StatsComponent`](./StatsComponent.md) - 统计数据管理 

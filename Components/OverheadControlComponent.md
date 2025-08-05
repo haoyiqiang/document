@@ -293,8 +293,8 @@ func _physics_process(_delta: float) -> void:
 
 ## 🔗 相关组件
 
-- [OverheadPhysicsComponent](../Physics/OverheadPhysicsComponent.md) - 俯视角物理组件
-- [CharacterBodyComponent](../Physics/CharacterBodyComponent.md) - 角色体组件
+- [OverheadPhysicsComponent](./OverheadPhysicsComponent.md) - 俯视角物理组件
+- [CharacterBodyComponent](./CharacterBodyComponent.md) - 角色体组件
 - [InputComponent](InputComponent.md) - 输入管理组件
 - [Component](../Component.md) - 基础组件类
 

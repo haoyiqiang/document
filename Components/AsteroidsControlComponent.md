@@ -135,8 +135,8 @@ func _ready():
 
 - [ThrustControlComponent](ThrustControlComponent.md) - 推进控制组件
 - [TurningControlComponent](TurningControlComponent.md) - 转向控制组件
-- [CharacterBodyDependentComponentBase](../Physics/CharacterBodyDependentComponentBase.md) - 基类组件
-- [VelocityClampComponent](../Physics/VelocityClampComponent.md) - 速度限制组件
+- [CharacterBodyDependentComponentBase](./CharacterBodyDependentComponentBase.md) - 基类组件
+- [VelocityClampComponent](./VelocityClampComponent.md) - 速度限制组件
 
 ---
 

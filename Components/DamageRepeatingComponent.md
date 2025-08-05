@@ -177,4 +177,4 @@ func _on_stop_moving():
 - [`DamageComponent`](DamageComponent.md) - 父类，提供基础伤害功能
 - [`DamageOverTimeComponent`](DamageOverTimeComponent.md) - 对比选择，用于受害者的DoT效果
 - [`DamageReceivingComponent`](DamageReceivingComponent.md) - 必需目标组件
-- [`AreaCollisionComponent`](../Physics/AreaCollisionComponent.md) - 提供碰撞检测基础 
+- [`AreaCollisionComponent`](./AreaCollisionComponent.md) - 提供碰撞检测基础 

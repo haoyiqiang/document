@@ -257,7 +257,7 @@ func onDidBeginTurn():
 - 自动适配不同类型的动画节点
 
 ## 相关组件
-- [`TurnBasedComponent`](../TurnBased/TurnBasedComponent.md) - 回合制基础组件
-- [`TurnBasedStateUIComponent`](../TurnBased/TurnBasedStateUIComponent.md) - 回合制UI状态
-- [`PlatformerAnimationComponent`](../Visual/PlatformerAnimationComponent.md) - 平台游戏动画
-- [`HealthVisualComponent`](../Visual/HealthVisualComponent.md) - 生命值视觉效果 
+- [`TurnBasedComponent`](./TurnBasedComponent.md) - 回合制基础组件
+- [`TurnBasedStateUIComponent`](./TurnBasedStateUIComponent.md) - 回合制UI状态
+- [`PlatformerAnimationComponent`](./PlatformerAnimationComponent.md) - 平台游戏动画
+- [`HealthVisualComponent`](./HealthVisualComponent.md) - 生命值视觉效果 

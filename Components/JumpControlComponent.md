@@ -199,8 +199,8 @@ jumps: 1
 
 ## 📚 相关组件
 
-- **[CharacterBodyComponent](../Physics/CharacterBodyComponent.md)**: 提供物理体访问
-- **[PlatformerPhysicsComponent](../Physics/PlatformerPhysicsComponent.md)**: 处理重力和物理
+- **[CharacterBodyComponent](./CharacterBodyComponent.md)**: 提供物理体访问
+- **[PlatformerPhysicsComponent](./PlatformerPhysicsComponent.md)**: 处理重力和物理
 - **[ClimbComponent](./ClimbComponent.md)**: 攀爬功能的替代选择
 - **[PlatformerControlComponent](./PlatformerControlComponent.md)**: 水平移动控制
 - **[InputComponent](./InputComponent.md)**: 输入状态管理

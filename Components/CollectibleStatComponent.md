@@ -412,9 +412,9 @@ func onAreaExited(area: Area2D) -> void:
 ## 🔗 相关组件
 
 - [CollectibleComponent](CollectibleComponent.md) - 基础收集品组件
-- [CollectorComponent](../Objects/CollectorComponent.md) - 收集器组件
-- [StatsComponent](../Data/StatsComponent.md) - 统计数据管理
-- [InventoryComponent](../Gameplay/InventoryComponent.md) - 物品容器组件
+- [CollectorComponent](./CollectorComponent.md) - 收集器组件
+- [StatsComponent](./StatsComponent.md) - 统计数据管理
+- [InventoryComponent](./InventoryComponent.md) - 物品容器组件
 
 ---
 

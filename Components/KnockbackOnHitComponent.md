@@ -273,9 +273,9 @@ func _on_hit_received(damage_component: DamageComponent, amount: int, factions: 
 ## 相关组件
 
 - [`DamageReceivingComponent`](DamageReceivingComponent.md) - 必需依赖，提供伤害接收功能
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - 必需依赖，提供物理体
-- [`PlatformerPhysicsComponent`](../Physics/PlatformerPhysicsComponent.md) - 常用搭配，可能需要调整顺序
-- [`VelocityClampComponent`](../Movement/VelocityClampComponent.md) - 推荐搭配，防止过度击退
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - 必需依赖，提供物理体
+- [`PlatformerPhysicsComponent`](./PlatformerPhysicsComponent.md) - 常用搭配，可能需要调整顺序
+- [`VelocityClampComponent`](./VelocityClampComponent.md) - 推荐搭配，防止过度击退
 - [`InvulnerabilityOnHitComponent`](InvulnerabilityOnHitComponent.md) - 常用搭配的受击效果
 
 ## 故障排除

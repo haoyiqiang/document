@@ -102,8 +102,8 @@ func _physics_process(_delta: float) -> void:
 
 - [CharacterBodyDependentComponentBase](CharacterBodyDependentComponentBase.md) - 基类组件
 - [CharacterBodyComponent](CharacterBodyComponent.md) - 角色体组件
-- [GunComponent](../Combat/GunComponent.md) - 射击组件(反冲力)
-- [KnockbackOnHitComponent](../Combat/KnockbackOnHitComponent.md) - 击退组件
+- [GunComponent](./GunComponent.md) - 射击组件(反冲力)
+- [KnockbackOnHitComponent](./KnockbackOnHitComponent.md) - 击退组件
 
 ---
 

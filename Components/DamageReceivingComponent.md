@@ -268,7 +268,7 @@ func trigger_combo_breaker():
 - 在生产环境中谨慎使用
 
 ## 相关组件
-- [`DamageComponent`](../Combat/DamageComponent.md) - 伤害造成
-- [`HealthComponent`](../Combat/HealthComponent.md) - 生命值管理
-- [`FactionComponent`](../Combat/FactionComponent.md) - 阵营系统
-- [`ShieldedHealthComponent`](../Combat/ShieldedHealthComponent.md) - 护盾生命值 
+- [`DamageComponent`](./DamageComponent.md) - 伤害造成
+- [`HealthComponent`](./HealthComponent.md) - 生命值管理
+- [`FactionComponent`](./FactionComponent.md) - 阵营系统
+- [`ShieldedHealthComponent`](./ShieldedHealthComponent.md) - 护盾生命值 

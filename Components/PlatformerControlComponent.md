@@ -237,7 +237,7 @@ func _physics_process(_delta):
 - 注意与玩家预期的一致性
 
 ## 相关组件
-- [`PlatformerPhysicsComponent`](../Physics/PlatformerPhysicsComponent.md) - 平台物理
-- [`JumpControlComponent`](../Control/JumpComponent.md) - 跳跃控制
-- [`InputComponent`](../Control/InputComponent.md) - 通用输入
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - CharacterBody2D管理 
+- [`PlatformerPhysicsComponent`](./PlatformerPhysicsComponent.md) - 平台物理
+- [`JumpControlComponent`](./JumpComponent.md) - 跳跃控制
+- [`InputComponent`](./InputComponent.md) - 通用输入
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - CharacterBody2D管理 

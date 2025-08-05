@@ -253,7 +253,7 @@ func onBodyShapeEntered(bodyRID: RID, bodyEntered: Node2D, bodyShapeIndex: int, 
 ## 🔗 相关组件
 
 - [AreaComponentBase](AreaComponentBase.md) - Area组件基类
-- [TileBasedPositionComponent](../Movement/TileBasedPositionComponent.md) - 瓦片位置组件
+- [TileBasedPositionComponent](./TileBasedPositionComponent.md) - 瓦片位置组件
 - [ModifyOnCollisionComponent](ModifyOnCollisionComponent.md) - 碰撞修改组件
 - [Component](../Component.md) - 基础组件类
 

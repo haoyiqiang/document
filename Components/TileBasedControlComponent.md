@@ -91,5 +91,5 @@ func update_movement_permissions():
 - 单步移动模式仅在输入时处理
 
 ## 相关组件
-- [`TileBasedPositionComponent`](../Movement/TileBasedPositionComponent.md) - 瓦片位置管理
-- [`InputComponent`](../Control/InputComponent.md) - 通用输入控制
+- [`TileBasedPositionComponent`](./TileBasedPositionComponent.md) - 瓦片位置管理
+- [`InputComponent`](./InputComponent.md) - 通用输入控制

@@ -265,7 +265,7 @@ func set_idle_animation(_area: Area2D):
 - 需要仔细测试各种场景
 
 ## 相关组件
-- [`JumpComponent`](../Control/JumpComponent.md) - 跳跃控制
-- [`InputComponent`](../Control/InputComponent.md) - 输入处理
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - 角色物理
-- [`AreaCollisionComponent`](../Physics/AreaCollisionComponent.md) - 区域碰撞检测 
+- [`JumpComponent`](./JumpComponent.md) - 跳跃控制
+- [`InputComponent`](./InputComponent.md) - 输入处理
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - 角色物理
+- [`AreaCollisionComponent`](./AreaCollisionComponent.md) - 区域碰撞检测 

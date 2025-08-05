@@ -494,9 +494,9 @@ func _physics_process(delta: float) -> void:
 
 ## 🔗 相关组件
 
-- [TurningControlComponent](../Control/TurningControlComponent.md) - 转向控制组件
-- [GunComponent](../Combat/GunComponent.md) - 武器组件
-- [MouseRotationComponent](../Control/MouseRotationComponent.md) - 鼠标旋转组件
+- [TurningControlComponent](./TurningControlComponent.md) - 转向控制组件
+- [GunComponent](./GunComponent.md) - 武器组件
+- [MouseRotationComponent](./MouseRotationComponent.md) - 鼠标旋转组件
 - [Component](../Component.md) - 基础组件类
 
 ---

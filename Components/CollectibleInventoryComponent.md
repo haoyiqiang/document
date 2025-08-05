@@ -279,7 +279,7 @@ func onCollectible_didCollect(collectibleComponent: CollectibleComponent, collec
 ## 🔗 相关组件
 
 - [CollectibleComponent](CollectibleComponent.md) - 基础收集组件
-- [InventoryComponent](../Gameplay/InventoryComponent.md) - 背包管理组件
+- [InventoryComponent](./InventoryComponent.md) - 背包管理组件
 - [CollectorComponent](CollectorComponent.md) - 收集器组件
 - [Component](../Component.md) - 基础组件类
 

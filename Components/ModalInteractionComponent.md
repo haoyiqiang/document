@@ -252,7 +252,7 @@ func modalView_didFinish(result: Variant) -> void:
 ## 🔗 相关组件
 
 - [InteractionComponent](InteractionComponent.md) - 基础交互组件
-- [InteractionControlComponent](../Control/InteractionControlComponent.md) - 交互控制组件
+- [InteractionControlComponent](./InteractionControlComponent.md) - 交互控制组件
 - [Component](../Component.md) - 基础组件类
 
 ---

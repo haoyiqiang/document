@@ -170,6 +170,6 @@ func update_status_display(status: GameState.Status):
 - 可以与其他运动组件组合使用
 
 ## 相关组件
-- [`RideableComponent`](../Movement/RideableComponent.md) - 载具系统
-- [`WaveMotionComponent`](../Movement/WaveMotionComponent.md) - 波形运动
-- [`LinearMotionComponent`](../Movement/LinearMotionComponent.md) - 直线运动
+- [`RideableComponent`](./RideableComponent.md) - 载具系统
+- [`WaveMotionComponent`](./WaveMotionComponent.md) - 波形运动
+- [`LinearMotionComponent`](./LinearMotionComponent.md) - 直线运动

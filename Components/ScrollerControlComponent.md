@@ -382,7 +382,7 @@ if is_zero_approx(inputDirection.y):
 
 ## 🔗 相关组件
 
-- [CharacterBodyComponent](../Physics/CharacterBodyComponent.md) - 角色身体组件
+- [CharacterBodyComponent](./CharacterBodyComponent.md) - 角色身体组件
 - [PlatformerControlComponent](PlatformerControlComponent.md) - 平台控制组件
 - [InputComponent](InputComponent.md) - 输入管理组件
 - [Component](../Component.md) - 基础组件类

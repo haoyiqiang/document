@@ -314,9 +314,9 @@ if payload:
 ## 🔗 相关组件
 
 - [AreaCollisionComponent](AreaCollisionComponent.md) - 基础碰撞检测
-- [ModifyOnTimerComponent](../Gameplay/ModifyOnTimerComponent.md) - 定时修改组件
+- [ModifyOnTimerComponent](./ModifyOnTimerComponent.md) - 定时修改组件
 - [NodeModifierComponentBase](../NodeModifierComponentBase.md) - 节点修改基类
-- [DamageComponent](../Combat/DamageComponent.md) - 伤害组件
+- [DamageComponent](./DamageComponent.md) - 伤害组件
 
 ---
 

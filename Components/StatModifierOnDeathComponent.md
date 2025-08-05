@@ -167,10 +167,10 @@ if shouldColorBubble:
 
 ## 🔗 相关组件
 
-- [HealthComponent](../Combat/HealthComponent.md) - 生命值组件
-- [ShieldedHealthComponent](../Combat/ShieldedHealthComponent.md) - 护盾生命值
-- [StatsComponent](../Data/StatsComponent.md) - 统计数据管理
-- [StatModifierComponent](../Data/StatModifierComponent.md) - 定时统计修改
+- [HealthComponent](./HealthComponent.md) - 生命值组件
+- [ShieldedHealthComponent](./ShieldedHealthComponent.md) - 护盾生命值
+- [StatsComponent](./StatsComponent.md) - 统计数据管理
+- [StatModifierComponent](./StatModifierComponent.md) - 定时统计修改
 - [UI/TextBubble](../../UI/TextBubble.md) - 文字气泡显示
 
 ---

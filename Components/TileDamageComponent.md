@@ -141,8 +141,8 @@ func _on_tile_damaged(tileMapLayer: TileMapLayer, cellCoords: Vector2i):
 ## 相关组件
 
 - [`DamageComponent`](DamageComponent.md) - 父类，提供基础伤害功能
-- [`TileCollisionComponent`](../Physics/TileCollisionComponent.md) - 祖父类，提供瓦片碰撞检测
-- [`AreaCollisionComponent`](../Physics/AreaCollisionComponent.md) - Area2D碰撞基类
+- [`TileCollisionComponent`](./TileCollisionComponent.md) - 祖父类，提供瓦片碰撞检测
+- [`AreaCollisionComponent`](./AreaCollisionComponent.md) - Area2D碰撞基类
 - [`BulletModifierComponent`](BulletModifierComponent.md) - 可用于修改带有此组件的弹药
 
 ## 故障排除

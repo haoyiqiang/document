@@ -244,6 +244,6 @@ func apply_environmental_effects(physics: OverheadPhysicsComponent):
 - 适合RPG、策略、射击等俯视角游戏
 
 ## 相关组件
-- [`CharacterBodyComponent`](../Physics/CharacterBodyComponent.md) - CharacterBody2D管理
-- [`InputComponent`](../Control/InputComponent.md) - 输入控制
-- [`PlatformerPhysicsComponent`](../Physics/PlatformerPhysicsComponent.md) - 平台物理（侧视角） 
+- [`CharacterBodyComponent`](./CharacterBodyComponent.md) - CharacterBody2D管理
+- [`InputComponent`](./InputComponent.md) - 输入控制
+- [`PlatformerPhysicsComponent`](./PlatformerPhysicsComponent.md) - 平台物理（侧视角） 

@@ -299,6 +299,6 @@ func get_nearest_target(position: Vector2) -> ActionTargetableComponent:
 - 考虑缓存条件结果
 
 ## 相关组件
-- [`ActionTargetingComponentBase`](../Gameplay/ActionTargetingComponentBase.md) - 目标瞄准基类
-- [`InteractionComponent`](../Objects/InteractionComponent.md) - 交互系统
-- [`AreaComponentBase`](../Physics/AreaComponentBase.md) - Area2D基类 
+- [`ActionTargetingComponentBase`](./ActionTargetingComponentBase.md) - 目标瞄准基类
+- [`InteractionComponent`](./InteractionComponent.md) - 交互系统
+- [`AreaComponentBase`](./AreaComponentBase.md) - Area2D基类 
